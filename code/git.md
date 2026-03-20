@@ -4,15 +4,19 @@
 
 ## 子模块管理
 
-### 更新子模块
-
-使用 `sm` 命令更新所有子模块到远程最新版本：
+### 更新仓库
 
 ```bash
-sm
+# 仓库级别配置（当前仓库生效）
+git config submodule.recurse true
+
+# 全局配置（所有仓库生效）
+git config --global submodule.recurse true
 ```
 
-或使用完整命令：
+### 更新子模块
+
+使用完整命令：
 
 ```bash
 git submodule update --remote --merge
