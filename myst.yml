@@ -1,0 +1,14 @@
+version: 1
+project:
+  title: 量潮创始人教程
+  description: 量潮创始人教程 - 面向后续成员的教程
+  keywords: [量潮创始人, 教程]
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+site:
+  template: book-theme
+  options:
+    folders: true
