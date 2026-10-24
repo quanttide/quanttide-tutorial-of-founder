@@ -8,6 +8,10 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - title: 创意工作
+      children:
+        - file: create/creative-work-intro.md
+        - file: create/ai-native-creative-work.md
 site:
   template: book-theme
   options:

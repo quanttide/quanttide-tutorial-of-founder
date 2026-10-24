@@ -6,7 +6,8 @@
 
 本仓库收录面向后续成员的教程。当前收录：
 
-- 待补充。
+- [创意工作入门](create/creative-work-intro.md)
+- [AI 原生创意工作](create/ai-native-creative-work.md)
 
 ## 许可
 

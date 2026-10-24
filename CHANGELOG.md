@@ -12,4 +12,5 @@
 
 ### 新增
 
+- `create/creative-work-intro.md`、`create/ai-native-creative-work.md`：两篇创意工作教程，自 `data/context/work/tutorial/` 迁入，去掉飞书导出的 UUID 后缀，改名 `creative-work-intro.md`（原《创意工作入门》）与 `ai-native-creative-work.md`（原《AI 原生创意工作》）；`index.md`、`README.md`、`myst.yml` 目录同步
 - 初始化教程仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`
