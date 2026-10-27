@@ -16,6 +16,9 @@ project:
       children:
         - file: game/wargaming-intro.md
         - file: game/yudong-campaign.md
+    - title: 智能体
+      children:
+        - file: agent/skill.md
 site:
   template: book-theme
   options:
