@@ -8,6 +8,8 @@
 
 - [创意工作入门](create/creative-work-intro.md)
 - [AI 原生创意工作](create/ai-native-creative-work.md)
+- [兵棋推演入门](game/wargaming-intro.md)
+- [以真实历史为素材的兵棋推演](game/yudong-campaign.md)
 
 ## 许可
 

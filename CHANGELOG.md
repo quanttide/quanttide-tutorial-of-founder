@@ -12,5 +12,7 @@
 
 ### 新增
 
+- `game/wargaming-intro.md`：兵棋推演入门教程——概念源流、六大要素、回合流程、新手想定与避坑清单；自 `data/context/game/library/` 迁入，正文未改
+- `game/yudong-campaign.md`：以真实历史为素材的兵棋推演——史料核证、想定设计、规则校准到复演验证，以豫东战役为例；自 `data/context/game/insight/` 迁入，正文未改
 - `create/creative-work-intro.md`、`create/ai-native-creative-work.md`：两篇创意工作教程，自 `data/context/work/tutorial/` 迁入，去掉飞书导出的 UUID 后缀，改名 `creative-work-intro.md`（原《创意工作入门》）与 `ai-native-creative-work.md`（原《AI 原生创意工作》）；`index.md`、`README.md`、`myst.yml` 目录同步
 - 初始化教程仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`

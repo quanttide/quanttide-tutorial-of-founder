@@ -12,6 +12,10 @@ project:
       children:
         - file: create/creative-work-intro.md
         - file: create/ai-native-creative-work.md
+    - title: 游戏
+      children:
+        - file: game/wargaming-intro.md
+        - file: game/yudong-campaign.md
 site:
   template: book-theme
   options:
