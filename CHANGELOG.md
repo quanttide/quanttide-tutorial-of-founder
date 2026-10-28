@@ -12,6 +12,7 @@
 
 ### 新增
 
+- `design/computational-design-llm-interaction.md`：用计算设计约束大模型的软件交互——三层约束（结构/行为/内容）、交互契约、状态机、校验器与越界处理；`index.md`、`README.md`、`myst.yml` 目录同步
 - `agent/skill.md`：在 CLI 中嵌入并安装 Skill——用 agent-skills-rs 注册、安装、维护锁文件与升级检测；自 `data/context/work/toolkit/` 迁入，正文未改
 - `game/wargaming-intro.md`：兵棋推演入门教程——概念源流、六大要素、回合流程、新手想定与避坑清单；自 `data/context/game/library/` 迁入，正文未改
 - `game/yudong-campaign.md`：以真实历史为素材的兵棋推演——史料核证、想定设计、规则校准到复演验证，以豫东战役为例；自 `data/context/game/insight/` 迁入，正文未改

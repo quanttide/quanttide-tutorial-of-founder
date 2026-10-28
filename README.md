@@ -11,6 +11,7 @@
 - [兵棋推演入门](game/wargaming-intro.md)
 - [以真实历史为素材的兵棋推演](game/yudong-campaign.md)
 - [在 CLI 中嵌入并安装 Skill](agent/skill.md)
+- [用计算设计约束大模型的软件交互](design/computational-design-llm-interaction.md)
 
 ## 许可
 
