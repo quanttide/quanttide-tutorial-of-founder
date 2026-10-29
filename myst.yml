@@ -16,6 +16,7 @@ project:
       children:
         - file: game/wargaming-intro.md
         - file: game/yudong-campaign.md
+        - file: game/counterfactual-wargaming.md
     - title: 智能体
       children:
         - file: agent/skill.md
