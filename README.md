@@ -8,9 +8,6 @@
 
 - [创意工作入门](create/creative-work-intro.md)
 - [AI 原生创意工作](create/ai-native-creative-work.md)
-- [兵棋推演入门](war/wargaming-intro.md)
-- [用真实历史造一盘棋](war/historical-wargame-design.md)
-- [反事实推演](war/counterfactual-wargaming.md)
 - [在 CLI 中嵌入并安装 Skill](agent/skill.md)
 
 ## 许可

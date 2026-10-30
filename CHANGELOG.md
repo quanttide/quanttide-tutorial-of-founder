@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### Removed
+
+- `war/` 三部曲（兵棋推演入门、用真实历史造一盘棋、反事实推演）迁出为独立仓 `quanttide-tutorial-of-war-gaming` 的 `intro/`；index、README 与 `myst.yml` 目录同步
+
 ### 新增
 
 - `game/` 拆分为 `game/`（游戏设计，暂无内容）与 `war/`（兵棋推演），三篇兵棋教程迁入 `war/`；`index.md`、`README.md`、`myst.yml` 目录同步

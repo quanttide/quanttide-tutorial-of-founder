@@ -12,11 +12,6 @@ project:
       children:
         - file: create/creative-work-intro.md
         - file: create/ai-native-creative-work.md
-    - title: 兵棋推演
-      children:
-        - file: war/wargaming-intro.md
-        - file: war/historical-wargame-design.md
-        - file: war/counterfactual-wargaming.md
     - title: 智能体
       children:
         - file: agent/skill.md
