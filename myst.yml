@@ -12,11 +12,11 @@ project:
       children:
         - file: create/creative-work-intro.md
         - file: create/ai-native-creative-work.md
-    - title: 游戏
+    - title: 兵棋推演
       children:
-        - file: game/wargaming-intro.md
-        - file: game/yudong-campaign.md
-        - file: game/counterfactual-wargaming.md
+        - file: war/wargaming-intro.md
+        - file: war/yudong-campaign.md
+        - file: war/counterfactual-wargaming.md
     - title: 智能体
       children:
         - file: agent/skill.md
