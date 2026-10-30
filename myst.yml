@@ -15,7 +15,7 @@ project:
     - title: 兵棋推演
       children:
         - file: war/wargaming-intro.md
-        - file: war/yudong-campaign.md
+        - file: war/historical-wargame-design.md
         - file: war/counterfactual-wargaming.md
     - title: 智能体
       children:
