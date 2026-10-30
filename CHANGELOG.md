@@ -12,7 +12,7 @@
 
 ### 新增
 
-- `game/counterfactual-wargaming.md`：反事实推演——用数学模型验证历史决策的六步工作流（分叉时刻、不变量清单、决策差异、蓝方AI、三组推演、叙事化），以豫东战役6月15日决策为例
+- `game/counterfactual-wargaming.md`：反事实推演——把同一场仗重放两遍：先照历史打验证引擎，再换命令看差异；含分叉选择、蓝方AI与参数标定、不变量清单、三组推演与五个翻车点，以豫东战役6月15日决策为例
 
 - `agent/skill.md`：在 CLI 中嵌入并安装 Skill——用 agent-skills-rs 注册、安装、维护锁文件与升级检测；自 `data/context/work/toolkit/` 迁入，正文未改
 - `game/wargaming-intro.md`：兵棋推演入门教程——概念源流、六大要素、回合流程、新手想定与避坑清单；自 `data/context/game/library/` 迁入，正文未改
