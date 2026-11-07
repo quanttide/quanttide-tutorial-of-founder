@@ -9,10 +9,9 @@
 - [创意工作入门](create/creative-work-intro.md)
 - [AI 原生创意工作](create/ai-native-creative-work.md)
 - [在 CLI 中嵌入并安装 Skill](agent/skill.md)
-- [可用性是什么](design/usability-intro.md)
-- [UI 和 UX 的分界](design/ui-ux-boundary.md)
-- [六条判据为什么这样写](design/usability-rules-explained.md)
-- [硬门槛与打分的原理](design/usability-gates-and-scoring.md)
+- [可用性评分总纲](design/index.md)
+- [UI 侧：截图能判的三条](design/ui.md)
+- [UX 侧：要操作才判的三条](design/ux.md)
 
 ## 许可
 

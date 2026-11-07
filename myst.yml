@@ -17,10 +17,9 @@ project:
         - file: agent/skill.md
     - title: 设计
       children:
-        - file: design/usability-intro.md
-        - file: design/ui-ux-boundary.md
-        - file: design/usability-rules-explained.md
-        - file: design/usability-gates-and-scoring.md
+        - file: design/index.md
+        - file: design/ui.md
+        - file: design/ux.md
 site:
   template: book-theme
   options:
