@@ -16,6 +16,7 @@
 
 ### 新增
 
+- `design/` 四篇可用性原理教程：`usability-intro.md`（可用性是什么——人一般卡在三个地方）、`ui-ux-boundary.md`（UI 和 UX 的分界——截图判 UI、操作判 UX，同题不重复扣分）、`usability-rules-explained.md`（六条判据为什么这样写——每条要求什么、人怎么卡、为什么定在这个位置）、`usability-gates-and-scoring.md`（硬门槛与打分的原理——三条门槛各防什么、封顶不叠加、未验不给分、修订须有实测依据）。面向零交互设计基础的新人，讲章程的**原理**而不复述条文（条文正本在 `docs/bylaw/design/usability.md` v1.2，实测方法在 `docs/handbook/design/usability-testing.md`）；`index.md`、`README.md` 与 `myst.yml` 目录同步
 - `game/` 拆分为 `game/`（游戏设计，暂无内容）与 `war/`（兵棋推演），三篇兵棋教程迁入 `war/`；`index.md`、`README.md`、`myst.yml` 目录同步
 - `war/` 三篇兵棋教程重写并重排为递进三部曲：会推棋 → 会造棋 → 会做实验；篇间互指、术语分工（规则校准＝定性写约束，参数标定＝数值倒推），旧版存量措辞一并清理
 - `war/counterfactual-wargaming.md`：反事实推演——把历史决策重放两遍：先照历史打验证引擎，再换命令看差异；含前置声明、分叉选择、蓝方AI、参数标定、不变量清单、三组推演、五个翻车点与三个"改条件"番外实验
