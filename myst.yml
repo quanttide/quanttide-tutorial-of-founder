@@ -20,6 +20,7 @@ project:
       children:
         - file: default/gtd-with-okr.md
         - file: default/parking-lot.md
+        - file: default/复杂决策方法.md
     - title: 设计
       children:
         - file: design/index.md

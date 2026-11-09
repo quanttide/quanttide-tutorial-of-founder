@@ -11,6 +11,7 @@
 - [在 CLI 中嵌入并安装 Skill](agent/skill.md)
 - [OKR 与 GTD 的衔接](default/gtd-with-okr.md)
 - [Parking Lot 完全指南](default/parking-lot.md)
+- [复杂环境下的尝试筛选方法](default/复杂决策方法.md)：换一套算账方式——筛的不是「有没有用」，是能不能买回一个改主意的信号。
 - [Hermes Kanban 看板拆解](agent/hermes-kanban.md)
 - [可用性评分总纲](design/index.md)
 - [UI 侧：截图能判的三条](design/ui.md)

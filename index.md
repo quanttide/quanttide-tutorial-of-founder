@@ -11,6 +11,7 @@
 - [在 CLI 中嵌入并安装 Skill](agent/skill.md)：用 agent-skills-rs 注册、安装并维护锁文件。
 - [OKR 与 GTD 的衔接](default/gtd-with-okr.md)：OKR 当漏斗口、GTD 当管道，O 落领域、KR 降解为项目，中间日子只跟 GTD 打交道。
 - [Parking Lot 完全指南](default/parking-lot.md)：把「现在不处理但不能忘」的事移出工作记忆的三种形态、格式与回顾节奏。
+- [复杂环境下的尝试筛选方法](default/复杂决策方法.md)：换一套算账方式——筛的不是「有没有用」，是能不能买回一个改主意的信号。
 - [Hermes Kanban 看板拆解](agent/hermes-kanban.md)：任务状态机、Worker 分工与批量布置任务的实际操作。
 - [可用性评分总纲](design/index.md)：可用性是什么、UI/UX 分界、权重与三条硬门槛，以及一次评分的四步顺序。
 - [UI 侧：截图能判的三条](design/ui.md)：状态齐备、信息层级、可访问与一致，合计 40 分，怎么截图取证。
