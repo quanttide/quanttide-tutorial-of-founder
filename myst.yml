@@ -15,6 +15,11 @@ project:
     - title: 智能体
       children:
         - file: agent/skill.md
+        - file: agent/hermes-kanban.md
+    - title: 方法
+      children:
+        - file: default/gtd-with-okr.md
+        - file: default/parking-lot.md
     - title: 设计
       children:
         - file: design/index.md
