@@ -10,8 +10,6 @@ project:
     - file: index.md
     - title: 创意工作
       children:
-        - file: create/creative-work-intro.md
-        - file: create/ai-native-creative-work.md
     - title: 智能体
       children:
         - file: agent/skill.md

@@ -8,6 +8,8 @@
 
 ---
 
+- create/ 两篇教程迁出至 quanttide-create 领域仓；清单与 myst 注册同步移除
+
 ## [Unreleased]
 
 ### Removed

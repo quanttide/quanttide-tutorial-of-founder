@@ -6,8 +6,6 @@
 
 本仓库收录面向后续成员的教程。当前收录：
 
-- [创意工作入门](create/creative-work-intro.md)
-- [AI 原生创意工作](create/ai-native-creative-work.md)
 - [在 CLI 中嵌入并安装 Skill](agent/skill.md)
 - [OKR 与 GTD 的衔接](default/gtd-with-okr.md)
 - [Parking Lot 完全指南](default/parking-lot.md)
